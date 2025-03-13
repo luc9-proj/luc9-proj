@@ -1,4 +1,4 @@
-# Olá, eu sou a Luciana Rolim! 👋
+# Olá, eu sou a Luciana Costa! 👋
 
 ### Bem-vindo(a) ao meu portfólio de projetos de Data Science e Análise de Dados.
 Aqui, você encontrará projetos práticos que desenvolvi aplicando conceitos de análise de dados, machine learning, estatística e visualização de dados. Meu foco é transformar dados em insights valiosos e resolver problemas de negócios utilizando abordagens baseadas em dados.
